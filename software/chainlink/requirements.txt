@@ -1,0 +1,5 @@
+cobs~=1.2.1
+pyserial~=3.5
+six~=1.16.0
+# Protobuf version is relatively old
+protobuf~=3.20.3
