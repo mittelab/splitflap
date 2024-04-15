@@ -3,3 +3,4 @@ pyserial~=3.5
 six~=1.16.0
 # Protobuf version is relatively old
 protobuf~=3.20.3
+python-telegram-bot~=21.1.1
